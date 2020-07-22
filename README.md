@@ -4,7 +4,7 @@ The project provides an introduction to international managerial finance
 
 Images are custom. Confidential information is not displayed.
 
-Please download the executable in
+Please download the executable in https://github.com/alpaddesai/SystemsEngineering/releases
 
 ## Systems Engineering
 ![image](DesignProcessImage2.jpg)
