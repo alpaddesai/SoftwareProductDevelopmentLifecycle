@@ -1,6 +1,6 @@
 # Systems Engineering
 
-The project provides an introduction to international managerial finance
+The project provides an introduction to Systems Engineering
 
 Images are custom. Confidential information is not displayed.
 
