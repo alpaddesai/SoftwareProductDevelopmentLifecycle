@@ -12,3 +12,5 @@ C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Debug\AxIn
 C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Debug\Interop.AcroPDFLib.dll
 C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Debug\AxInterop.AcroPDFLib.dll
 C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Debug\SystemsEngineering.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Debug\SystemsEngineering.SystemsEngineering.resources
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Debug\SystemsEngineering.SystemsEngineeringProcess.resources

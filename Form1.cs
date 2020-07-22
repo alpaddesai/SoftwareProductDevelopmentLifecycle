@@ -30,5 +30,17 @@ namespace SystemsEngineering
             axAcroPDF1.src = file.FileName;
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SystemsEngineering sysEng = new SystemsEngineering();
+            sysEng.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SystemsEngineeringProcess sysEngProcess = new SystemsEngineeringProcess();
+            sysEngProcess.Show();
+        }
     }
 }

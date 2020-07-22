@@ -1,0 +1,17 @@
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Release\SystemsEngineering.exe.config
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Release\SystemsEngineering.exe
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Release\SystemsEngineering.pdb
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.Form1.resources
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.Properties.Resources.resources
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.exe
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.pdb
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.csprojAssemblyReference.cache
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.SystemsEngineering.resources
+C:\Users\alpag\source\repos\SystemsEngineering\SystemsEngineering\obj\Release\SystemsEngineering.SystemsEngineeringProcess.resources
