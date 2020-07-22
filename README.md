@@ -7,9 +7,11 @@ Images are custom. Confidential information is not displayed.
 Please download the executable in
 
 ## Systems Engineering
+![image](DesignProcessImage2.jpg)
+
 
 ## Systems Engineering Design Process
-
+![image](DesignProcessImage1.jpg)
 
 
 
