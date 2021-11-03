@@ -15,5 +15,3 @@ Reference https://github.com/alpaddesai/EmbeddedSystemsArchitecture for more det
 ## Systems Engineering Design Process
 ![image](DesignProcessImage1.jpg)
 
-Additional reference : https://www.edn.com/designcenter/test-measurement/ and https://github.com/alpaddesai/EngineeringProjectManagement
-
