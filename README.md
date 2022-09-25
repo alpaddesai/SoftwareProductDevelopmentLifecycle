@@ -11,8 +11,9 @@ Reference https://github.com/alpaddesai/EmbeddedSystemsArchitecture for more det
 ## Systems Engineering
 ![image](DesignProcessImage2.jpg)
 
-
 ## Systems Engineering Design Process
 ![image](DesignProcessImage1.jpg)
+
+![image](USCopyrightCertificate.png)
 
 Additional information: https://github.com/alpaddesai/EconomicDecisionMaking
