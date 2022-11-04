@@ -16,4 +16,4 @@ Reference https://github.com/alpaddesai/EmbeddedSystemsArchitecture for more det
 
 ![image](USCopyrightCertificate.png)
 
-Additional information: https://github.com/alpaddesai/EconomicDecisionMaking
+Additional information: https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/OperationsResearch.
