@@ -18,4 +18,4 @@ Reference https://github.com/alpaddesai/EmbeddedSystemsArchitecture for more det
 
 ![image](Ethics.jpg)
 
-Additional information: https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/OperationsResearch.
+Additional information: https://github.com/alpaddesai/EngineeringProjectManagement2022
