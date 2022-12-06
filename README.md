@@ -6,8 +6,6 @@ Images are custom by Alpa D. Desai. Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/SystemsEngineering/releases
 
-Reference https://github.com/alpaddesai/EmbeddedSystemsArchitecture for more details.
-
 ## Systems Engineering
 ![image](DesignProcessImage2.jpg)
 
