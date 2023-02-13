@@ -16,4 +16,4 @@ Please download the executable in https://github.com/alpaddesai/SystemsEngineeri
 
 ![image](Ethics.jpg)
 
-Additional information: https://github.com/alpaddesai/ProgramManagement
+Additional information: https://github.com/alpaddesai/EngineeringProjectManagement
