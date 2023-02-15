@@ -10,6 +10,9 @@ Images are custom by Alpa D. Desai. Confidential information is not displayed.
 ## Systems Engineering Design Process
 ![image](DesignProcessImage1.jpg)
 
+## Software lifecycle
+![image](SoftwareDevelopmentCycle.png)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
