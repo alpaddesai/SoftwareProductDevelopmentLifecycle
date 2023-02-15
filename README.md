@@ -4,8 +4,6 @@ The project provides an introduction to Systems Engineering
 
 Images are custom by Alpa D. Desai. Confidential information is not displayed.
 
-Please download the executable in https://github.com/alpaddesai/SystemsEngineering/releases
-
 ## Systems Engineering
 ![image](DesignProcessImage2.jpg)
 
