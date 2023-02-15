@@ -13,6 +13,9 @@ Images are custom by Alpa D. Desai. Confidential information is not displayed.
 ## Software lifecycle
 ![image](SoftwareDevelopmentCycle.png)
 
+## Agile lifecycle
+![image](AgileLifeCycle.png)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
