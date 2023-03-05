@@ -1,6 +1,6 @@
 # Software Product Development Life Cycle
 
-The project provides an introduction to Systems Engineering and software product development lifecycle
+The project provides an introduction to software product development lifecycle
 
 Images are custom by Alpa D. Desai. Confidential information is not displayed.
 
